@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Movie_Recommendation.zip filter=lfs diff=lfs merge=lfs -text
+Movie_Recommendation/Code_For_Content_Based_Filtering/Content_Main/credits.csv filter=lfs diff=lfs merge=lfs -text
